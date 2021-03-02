@@ -3,6 +3,9 @@ html {
 }
 
 p {
+    text-align: center;
+    margin-top: 1000px;
+    font-size: 1px;
     color: #fff;
     cursor: context-menu;
 }
