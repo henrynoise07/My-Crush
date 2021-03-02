@@ -6,9 +6,9 @@ p {
     text-align: center;
     margin-top: 1000px;
     font-size: 1px;
-    color: #fff;
+    color: rgba(0,0,0,0);
     cursor: context-menu;
 }
 ::selection {
-    background-color: #fff;
+    background-color: rgba(0,0,0,0);
 }
