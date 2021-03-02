@@ -1,7 +1,7 @@
 html {
     background-image: url("bg.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     position: fixed;
     top: 0;
     bottom: 0;
