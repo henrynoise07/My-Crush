@@ -1,12 +1,14 @@
 html {
+     position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
     background-image: url("bg.png");
     background-repeat: no-repeat;
-    background-size: inherit;
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
+    background-size: cover;
+    background-position: 50%;
+    margin-top: 0;
 }
 
 p {
