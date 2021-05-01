@@ -6,7 +6,7 @@ html {
     left: 0;
     background-image: url("bg.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: 50%;
     margin-top: 0;
 }
